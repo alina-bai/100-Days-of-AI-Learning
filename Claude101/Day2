@@ -1,0 +1,91 @@
+# Claude 101 — Day 2: First Conversation
+
+## Overview
+
+Today I completed the second lesson of Anthropic's **Claude 101** course.
+
+The lesson focused on creating effective prompts, improving responses through iteration, and personalizing Claude to better match different tasks and communication styles.
+
+## What I Learned
+
+* A well-written prompt leads to more accurate and useful responses.
+* Giving Claude enough context improves the quality of the output.
+* Clear instructions reduce ambiguity.
+* Breaking complex tasks into smaller steps helps Claude generate better results.
+* Claude's responses can be refined through multiple iterations.
+* Claude can be personalized to match different roles, tones, and writing styles.
+
+## Structure of a Good Prompt
+
+A good prompt usually includes:
+
+1. **Context** – Background information about the task.
+2. **Task** – What you want Claude to do.
+3. **Constraints** – Rules or limitations (length, format, tone, etc.).
+4. **Expected Output** – The desired response format.
+
+## Iterating on Claude's Responses
+
+Instead of expecting the perfect answer immediately, improve the result by continuing the conversation.
+
+Examples:
+
+* Ask Claude to explain a topic more simply.
+* Request additional examples.
+* Change the tone or format.
+* Ask Claude to expand, shorten, or reorganize the response.
+
+Iteration helps produce more accurate and useful results.
+
+## Personalizing Claude
+
+Claude can adapt to different roles and communication styles.
+
+Examples:
+
+* *Act as a senior Java developer.*
+* *Explain this like I'm a beginner.*
+* *Use a professional tone.*
+* *Write the answer as a GitHub README.*
+* *Provide step-by-step instructions.*
+
+Providing a role and clear expectations makes the responses more relevant and tailored to your needs.
+
+## Example
+
+### Basic Prompt
+
+```text
+Explain Java Streams.
+```
+
+### Better Prompt
+
+```text
+You are a senior Java developer.
+
+Explain Java Streams to a beginner who already understands Java Collections.
+
+Use simple language, provide real-world examples, compare Streams with loops, and include a short Java code example.
+```
+
+## Key Takeaways
+
+* Be specific instead of general.
+* Provide enough context.
+* Clearly define the expected output.
+* Iterate to continuously improve responses.
+* Personalize Claude by assigning roles, tone, and audience.
+* The quality of the response depends heavily on the quality of the prompt.
+
+## Reflection
+
+Today I learned that prompt engineering is more than writing a single prompt. The best results come from providing context, iterating on responses, and personalizing Claude to fit the task and audience.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** First Conversation
+
+**Status:** ✅ Completed
