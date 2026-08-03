@@ -1,0 +1,100 @@
+# Claude 101 — Day 3: Getting Better Results
+
+## Overview
+
+Today I completed the third lesson of Anthropic's **Claude 101** course.
+
+This lesson focused on improving Claude's responses by evaluating results, troubleshooting common issues, and developing AI fluency. Instead of expecting perfect answers immediately, I learned how to work collaboratively with Claude to achieve better outcomes.
+
+## What I Learned
+
+* AI-generated responses should be evaluated, not accepted blindly.
+* Better prompts are created through continuous refinement.
+* AI is most effective when treated as a collaborative partner.
+* Testing different prompt variations often produces significantly better results.
+* Developing AI fluency is an important professional skill.
+
+## Common Challenges
+
+When working with Claude, you may encounter:
+
+* Responses that are too vague.
+* Missing important details.
+* Incorrect assumptions.
+* Unclear formatting.
+* Answers that don't fully match the request.
+
+## Troubleshooting Techniques
+
+To improve results:
+
+* Provide more context.
+* Break large tasks into smaller steps.
+* Specify the desired output format.
+* Ask Claude to explain its reasoning.
+* Request revisions instead of starting over.
+* Experiment with different prompt wording.
+
+## Evaluating Responses
+
+Before using Claude's output, ask yourself:
+
+* Does it answer the original question?
+* Is the information accurate?
+* Is anything missing?
+* Is the response easy to understand?
+* Does the format meet my requirements?
+
+Evaluation is an essential part of working effectively with AI.
+
+## AI Fluency
+
+AI fluency is the ability to work effectively with AI systems by:
+
+* Understanding their strengths and limitations.
+* Writing clear and structured prompts.
+* Critically evaluating responses.
+* Iterating to improve results.
+* Applying AI responsibly in real-world workflows.
+
+## Example
+
+### Initial Prompt
+
+```text
+Summarize this article.
+```
+
+### Improved Prompt
+
+```text
+Summarize this article for a software engineering student.
+
+Include:
+- Key ideas
+- Important technical concepts
+- Practical examples
+- A short conclusion
+
+Limit the summary to 300 words.
+```
+
+## Key Takeaways
+
+* Better prompts lead to better responses.
+* Evaluation is just as important as prompting.
+* Iteration is part of the AI workflow.
+* AI fluency is a valuable long-term skill.
+* Claude works best when given clear goals and specific expectations.
+
+## Reflection
+
+Today I realized that using AI effectively is an iterative process. The goal isn't to get a perfect answer on the first try, but to evaluate, refine, and collaborate with Claude until the output meets the desired quality.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Getting Better Results
+
+**Status:** ✅ Completed
