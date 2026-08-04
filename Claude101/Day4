@@ -1,0 +1,98 @@
+# Claude 101 — Day 4: Claude Desktop – Chat, Cowork, Code
+
+## Overview
+
+Today I completed the fourth lesson of Anthropic's **Claude 101** course.
+
+This lesson introduced the Claude Desktop application and demonstrated how it supports different workflows. Claude is more than a chatbot—it can act as a collaborative partner, a coding assistant, and a productivity tool.
+
+## What I Learned
+
+* Claude Desktop provides a dedicated workspace for interacting with Claude.
+* Claude can support different workflows depending on the task.
+* AI is most effective when used as a collaborator rather than just a question-answering tool.
+* Switching between different modes of work helps improve productivity.
+
+## Chat
+
+Use Claude to:
+
+* Ask questions.
+* Learn new concepts.
+* Summarize documents.
+* Brainstorm ideas.
+* Draft emails, reports, and other written content.
+
+## Cowork
+
+Claude can work **with you**, not just **for you**.
+
+Examples:
+
+* Brainstorm solutions.
+* Review and improve writing.
+* Organize ideas.
+* Plan projects.
+* Analyze information together.
+
+The goal is collaboration through an interactive conversation where ideas are refined over multiple iterations.
+
+## Code
+
+Claude can assist throughout the software development process.
+
+Examples:
+
+* Explain code.
+* Generate code snippets.
+* Debug errors.
+* Refactor existing code.
+* Write documentation.
+* Review code for readability and best practices.
+
+## Best Practices
+
+* Give Claude enough context.
+* Clearly describe your goal.
+* Iterate on responses instead of expecting perfection immediately.
+* Verify important information before using it.
+* Treat Claude as a thinking partner.
+
+## Example
+
+### Coding Prompt
+
+```text
+You are a senior Java backend developer.
+
+Review the following Spring Boot controller.
+Identify potential improvements, explain your reasoning,
+and suggest a cleaner implementation following best practices.
+```
+
+## Key Takeaways
+
+* Claude supports multiple ways of working: **Chat, Cowork, and Code**.
+* Collaboration produces better results than one-off prompts.
+* Context and iteration remain essential for high-quality responses.
+* Claude can accelerate learning, writing, and software development.
+
+## Reflection
+
+Today's lesson showed that Claude is not simply an AI chatbot. It can become a daily productivity partner that helps me learn faster, solve programming problems, improve my writing, and collaborate on complex tasks.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Claude Desktop – Chat, Cowork, Code
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* AI Collaboration
+* AI-Assisted Coding
+* Productivity Workflows
+* Context Management
+* Iterative Problem Solving
