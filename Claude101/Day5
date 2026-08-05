@@ -1,0 +1,107 @@
+# Claude 101 — Day 5: Projects
+
+## Overview
+
+Today I completed the fifth lesson of Anthropic's **Claude 101** course.
+
+This lesson introduced **Projects in Claude** and how they can help organize conversations, provide persistent context, and create a more personalized AI workspace.
+
+## What I Learned
+
+* Projects allow users to organize related conversations and tasks in one place.
+* Adding context helps Claude understand the purpose, goals, and requirements of a project.
+* Project instructions help customize Claude's behavior and responses.
+* Files and additional information can be added to improve Claude's understanding of a specific topic.
+
+## What Are Claude Projects?
+
+A Project is a dedicated workspace where you can:
+
+* Store relevant files and information.
+* Add project-specific instructions.
+* Keep related conversations together.
+* Create a consistent workflow with Claude.
+
+Projects are useful for long-term tasks where Claude needs to remember the context within that workspace.
+
+## Benefits of Using Projects
+
+### 1. Better Context
+
+Instead of explaining the same background information repeatedly, you can provide context once and reuse it.
+
+Example:
+
+```
+You are my Java programming mentor.
+I am learning Spring Boot and backend development.
+Explain concepts step-by-step with practical examples.
+```
+
+### 2. Personalized Responses
+
+Project instructions allow Claude to adapt to:
+
+* Your goals.
+* Your level of knowledge.
+* Preferred communication style.
+* Expected output format.
+
+### 3. Organized Workflow
+
+Projects can help manage:
+
+* Learning plans.
+* Software development tasks.
+* Research.
+* Writing projects.
+* Documentation.
+
+## Example: Developer Learning Project
+
+A Claude Project for my backend learning could include:
+
+```
+Project:
+Java Backend Developer Journey
+
+Instructions:
+- Act as a senior Java backend mentor.
+- Explain concepts clearly.
+- Provide code examples.
+- Review my solutions.
+- Help me prepare for interviews.
+
+Resources:
+- Java notes
+- Spring Boot projects
+- Learning roadmap
+- Interview questions
+```
+
+## Key Takeaways
+
+* Projects make Claude more useful for long-term goals.
+* Context is one of the most important factors in AI collaboration.
+* Personalization improves the quality and relevance of responses.
+* Organizing AI workflows helps increase productivity.
+
+## Reflection
+
+Today I learned that Claude becomes much more powerful when it has continuous context. Projects transform AI from a simple chatbot into a personalized workspace that can support long-term learning, development, and professional tasks.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Projects
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* Project Organization
+* Context Management
+* AI Personalization
+* Long-Term AI Collaboration
+* Workflow Design
