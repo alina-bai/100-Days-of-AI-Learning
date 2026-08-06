@@ -1,0 +1,105 @@
+# Claude 101 — Day 6: Creating with Artifacts
+
+## Overview
+
+Today I completed the sixth lesson of Anthropic's **Claude 101** course.
+
+This lesson introduced **Artifacts**, a feature that allows Claude to generate structured, editable, and reusable content in a dedicated workspace. Instead of displaying everything inside the chat, Claude can create documents, code, diagrams, and interactive applications that can be reviewed and refined separately.
+
+## What I Learned
+
+* Artifacts are generated outside of the conversation in a dedicated workspace.
+* They are ideal for creating content that needs to be edited or reused.
+* Claude can generate complete documents, code, websites, diagrams, and more.
+* Artifacts support an iterative workflow where content is continuously improved.
+
+## What Are Artifacts?
+
+Artifacts are standalone outputs created by Claude, such as:
+
+* Documents
+* Source code
+* Markdown files
+* HTML pages
+* Interactive web applications
+* Flowcharts and diagrams
+* Tables and reports
+
+Unlike normal chat responses, Artifacts are designed to be saved, edited, and shared.
+
+## When to Use Artifacts
+
+Artifacts are useful when creating:
+
+* Technical documentation
+* GitHub README files
+* Project plans
+* Study notes
+* Software prototypes
+* Landing pages
+* Presentations
+* Code examples
+
+## Benefits of Artifacts
+
+### Organized Output
+
+Large responses are displayed in a clean workspace instead of a long chat conversation.
+
+### Easy Iteration
+
+You can continue refining the same Artifact without recreating it from scratch.
+
+### Reusable Content
+
+Artifacts can become project documentation, templates, or learning materials.
+
+## Example Prompt
+
+```text
+Create a professional GitHub README for my Spring Boot project.
+
+Include:
+- Project Overview
+- Features
+- Technologies Used
+- Installation
+- API Endpoints
+- Future Improvements
+
+Format the output in Markdown.
+```
+
+## Best Practices
+
+* Clearly describe the final deliverable.
+* Specify the desired format (Markdown, HTML, PDF, etc.).
+* Provide enough context before generating an Artifact.
+* Iterate until the Artifact meets your expectations.
+
+## Key Takeaways
+
+* Artifacts separate content creation from conversation.
+* They are ideal for professional and reusable outputs.
+* Claude can generate high-quality documents, code, and interactive content.
+* Iteration improves the final result.
+
+## Reflection
+
+Today's lesson showed how Claude can be used not only as a conversational AI but also as a powerful content creation tool. Artifacts make it easier to build professional documentation, software projects, and learning materials that can be continuously improved.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Creating with Artifacts
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* Artifact Creation
+* Documentation Writing
+* AI-Assisted Content Generation
+* Markdown Authoring
+* Iterative Content Development
