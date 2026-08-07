@@ -1,0 +1,109 @@
+# Claude 101 — Day 7: Working with Skills
+
+## Overview
+
+Today I completed the seventh lesson of Anthropic's **Claude 101** course.
+
+This lesson introduced **Skills**, a feature that allows Claude to perform repetitive tasks using predefined instructions. Skills help automate workflows, ensure consistency, and save time by teaching Claude *how* to complete specific types of work.
+
+## What I Learned
+
+* Skills are reusable instructions for recurring tasks.
+* They define **how** Claude should perform a task.
+* Skills can improve consistency and productivity.
+* Custom Skills can be created for personal or professional workflows.
+* Skills work especially well when combined with Projects.
+
+## What Are Skills?
+
+A Skill is a reusable workflow that tells Claude exactly how to complete a specific task.
+
+Examples include:
+
+* Writing GitHub README files
+* Reviewing Java code
+* Summarizing meeting notes
+* Creating documentation
+* Translating text
+* Formatting reports
+
+Instead of repeating the same instructions every time, Claude can reuse a Skill.
+
+## Projects vs Skills
+
+| Projects                           | Skills                      |
+| ---------------------------------- | --------------------------- |
+| Store knowledge and context        | Store reusable workflows    |
+| Answer **What?**                   | Answer **How?**             |
+| Long-term workspace                | Reusable process            |
+| Files, instructions, conversations | Step-by-step task execution |
+
+Projects and Skills complement each other:
+
+* **Project = Knowledge**
+* **Skill = Process**
+
+## Example Skill
+
+### Java Code Review
+
+```text
+Role:
+Senior Java Backend Developer
+
+Workflow:
+1. Review the code.
+2. Identify bugs.
+3. Suggest improvements.
+4. Explain best practices.
+5. Provide a cleaner implementation.
+6. Rate code quality from 1–10.
+```
+
+Whenever this Skill is used, Claude follows the same structured review process.
+
+## Benefits of Skills
+
+* Save time on repetitive tasks.
+* Produce more consistent results.
+* Standardize workflows.
+* Reduce the need to rewrite prompts.
+* Improve collaboration across projects.
+
+## Example Use Cases
+
+* GitHub documentation
+* Spring Boot code reviews
+* Technical writing
+* Resume improvement
+* Email drafting
+* Study summaries
+* Interview preparation
+
+## Key Takeaways
+
+* Skills define **how Claude works**.
+* They automate repetitive workflows.
+* Skills can be reused across multiple projects.
+* Combining Projects and Skills creates a powerful AI workspace.
+* Well-designed Skills improve both efficiency and output quality.
+
+## Reflection
+
+Today's lesson showed me that Skills are like reusable templates for AI workflows. Instead of writing the same prompt repeatedly, I can create a Skill once and let Claude follow a consistent process every time. This makes AI collaboration more efficient, especially for programming, documentation, and long-term learning.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Working with Skills
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* Workflow Automation
+* Reusable AI Instructions
+* Process Standardization
+* AI Productivity
+* Custom Skill Design
