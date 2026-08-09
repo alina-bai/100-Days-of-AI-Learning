@@ -1,0 +1,126 @@
+# Claude 101 — Day 8: Connecting Your Tools
+
+## Overview
+
+Today I completed the eighth lesson of Anthropic's **Claude 101** course.
+
+This lesson focused on **Connectors** — how Claude can connect to external tools, applications, and data sources to become a more informed and capable collaborator.
+
+## What I Learned
+
+* Connectors allow Claude to access external tools and information.
+* Claude can search files, retrieve documents, analyze data, create content, and perform actions depending on the connector and granted permissions.
+* Connectors are powered by the **Model Context Protocol (MCP)**.
+* MCP provides a universal standard for connecting AI models with external applications and tools.
+* Claude can work with both cloud services and local applications.
+
+## What Are Connectors?
+
+Connectors allow Claude to work with information outside the current conversation.
+
+For example, Claude can connect to:
+
+* Google Drive
+* Gmail
+* Slack
+* Notion
+* Asana
+* Linear
+* Jira
+* Salesforce
+* Stripe
+
+This means Claude can work directly with real data instead of relying only on information provided in the prompt.
+
+## Model Context Protocol (MCP)
+
+**MCP (Model Context Protocol)** is the technology that powers connectors.
+
+A useful analogy from the lesson is:
+
+> **MCP is like USB-C for AI.**
+
+Just as USB-C provides a common standard for connecting different devices, MCP provides a common way for AI systems to connect with different tools and applications.
+
+This allows developers to build integrations that can work with Claude through a consistent interface.
+
+## Types of Connectors
+
+### Web Connectors
+
+Connect Claude to cloud-based services such as:
+
+* Gmail
+* Google Drive
+* Notion
+* Slack
+* Asana
+* Linear
+
+### Desktop Extensions
+
+Desktop extensions work through the **Claude Desktop** application and can provide access to:
+
+* Local files
+* File system operations
+* Browser control
+* Native applications
+
+## Example
+
+Without a connector:
+
+```text
+Draft a short status update on the budget project for my manager.
+```
+
+With connected tools:
+
+```text
+Check the latest budget information in my connected files
+and draft a short status update for my manager.
+```
+
+The second request allows Claude to use real information from an external source.
+
+## Security & Permissions
+
+Connecting Claude to external services requires careful consideration of permissions.
+
+Important principles:
+
+* **Scoped access** — connectors only receive the permissions that are granted.
+* **Claude sees what you see** — connecting your account does not automatically give Claude access to information you cannot access.
+* **Revocable access** — connections can be disconnected at any time.
+* **Trusted sources** — only use connectors from sources you trust.
+
+## Key Takeaways
+
+* Connectors expand what Claude can access and do.
+* MCP provides a standardized way for AI to connect with external tools.
+* Web connectors work with cloud services.
+* Desktop extensions provide access to local tools and applications.
+* Permissions and security are essential when connecting external services.
+
+## Reflection
+
+Today's lesson helped me understand how AI can move beyond simple conversations and interact with real-world tools and data.
+
+The introduction to **MCP** was especially interesting because it shows how AI models can be connected to different applications through a common protocol. This is an important concept for anyone interested in AI and software development.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Connecting Your Tools
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* AI Tool Integration
+* Model Context Protocol (MCP)
+* External Data Access
+* AI Workflows
+* Connector Management
+* Security & Permissions
