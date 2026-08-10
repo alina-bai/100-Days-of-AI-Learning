@@ -1,0 +1,99 @@
+# Claude 101 — Day 9: Enterprise Search
+
+## Overview
+
+Today I completed the ninth lesson of Anthropic's **Claude 101** course.
+
+This lesson introduced **Enterprise Search** — a way for Claude for Work users to search across their organization's knowledge sources and use that information to provide more relevant and context-aware answers.
+
+## What I Learned
+
+* Enterprise Search allows Claude to search across connected organizational knowledge.
+* It helps employees find information without manually searching through multiple systems.
+* Claude can use information from different knowledge sources to answer questions.
+* Search results can be combined with Claude's reasoning and conversation context.
+* Enterprise Search is designed to help organizations make their internal knowledge more accessible.
+
+## What Is Enterprise Search?
+
+Enterprise Search connects Claude to an organization's internal knowledge sources.
+
+Instead of searching through different platforms individually, users can ask Claude questions such as:
+
+```text
+What is our company's policy on remote work?
+```
+
+Claude can search the organization's available knowledge sources and use the relevant information to answer.
+
+## Why It Matters
+
+Organizations often have information spread across:
+
+* Internal documentation
+* Knowledge bases
+* Company files
+* Project documentation
+* Communication platforms
+* Other connected business tools
+
+Enterprise Search helps bring this information together through a single AI-powered interface.
+
+## Example
+
+### Traditional Approach
+
+```text
+Search Google Drive
+→ Search Slack
+→ Search Notion
+→ Open several documents
+→ Compare the information
+→ Write the final answer
+```
+
+### With Enterprise Search
+
+```text
+Ask Claude a question
+→ Claude searches connected knowledge
+→ Claude identifies relevant information
+→ Claude provides a contextual answer
+```
+
+## Enterprise Search vs Connectors
+
+**Connectors** allow Claude to connect to specific external tools and applications.
+
+**Enterprise Search** focuses on searching across an organization's connected knowledge sources to help answer questions using company-specific information.
+
+## Key Takeaways
+
+* Enterprise Search makes organizational knowledge easier to access.
+* Claude can search across multiple connected knowledge sources.
+* It reduces the need to manually search through different systems.
+* Company-specific context can make Claude's answers more relevant.
+* Enterprise Search is especially useful for organizations with large amounts of internal information.
+
+## Reflection
+
+Today's lesson showed me how AI can become a layer on top of an organization's existing knowledge. Instead of employees spending time searching through multiple systems, they can ask Claude directly and receive an answer based on relevant internal information.
+
+This also helped me see how **Connectors, MCP, and Enterprise Search** can work together to make AI much more useful in real-world organizations.
+
+---
+
+**Course:** Claude 101 (Anthropic)
+
+**Lesson:** Enterprise Search
+
+**Status:** ✅ Completed
+
+## AI Skills Gained
+
+* Enterprise AI
+* Knowledge Search
+* Information Retrieval
+* AI-Powered Research
+* Organizational Knowledge Management
+* Context-Aware AI
