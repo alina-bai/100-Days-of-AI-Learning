@@ -1,0 +1,136 @@
+Claude 101 — Day 10: Research Mode for Deep Dives
+
+Overview
+
+Today I completed the tenth lesson of Anthropic’s Claude 101 course.
+
+This lesson introduced Research Mode, a feature designed for deep and comprehensive research. Instead of performing a single search, Claude can conduct multiple searches, explore different angles, analyze information, and combine findings into a detailed report.
+
+What I Learned
+
+* Research Mode performs systematic, multi-step research.
+* Claude can search across multiple sources and investigate a topic from different angles.
+* Research Mode automatically uses Extended Thinking to plan and analyze complex research tasks.
+* Claude can combine information from the web and connected integrations.
+* Research results include citations, making the information easier to verify.
+
+What Is Research Mode?
+
+Research Mode turns Claude from a conversational assistant into a more systematic researcher.
+
+Instead of asking:
+
+What are the latest trends in AI?
+
+I can give Claude a more structured research request:
+
+Analyze the latest trends in AI development.
+Focus on:
+- Major technologies
+- Key companies
+- Emerging trends
+- Impact on software development
+- Skills developers should learn
+Use multiple reliable sources and provide citations.
+
+Claude can then investigate the topic through multiple searches and synthesize the findings into a structured report.
+
+How Research Mode Works
+
+1. Plan
+
+Claude breaks the research question into smaller areas and determines what information it needs.
+
+2. Search
+
+Claude performs multiple searches instead of relying on a single source.
+
+3. Investigate
+
+Claude follows relevant leads, explores different perspectives, and identifies missing information.
+
+4. Synthesize
+
+Claude combines the findings into a comprehensive answer.
+
+5. Cite
+
+Claude provides citations so the information can be checked against the original sources.
+
+When to Use Research Mode
+
+Research Mode is especially useful for:
+
+* Comprehensive research
+* Comparing products, companies, or competitors
+* Market research
+* Industry analysis
+* Research requiring multiple sources
+* Questions that would normally take hours to investigate manually
+
+For simple questions or quick facts, a regular web search may be more appropriate.
+
+Writing Effective Research Prompts
+
+A strong research prompt should include:
+
+* Goal — What do I want to find out?
+* Scope — What areas should be researched?
+* Structure — How should the results be organized?
+* Constraints — Budget, timeframe, location, etc.
+* Sources — What types of sources should be considered?
+
+The more clearly the research goal is defined, the more useful the final report can be.
+
+Research + Connected Tools
+
+Research Mode becomes even more powerful when combined with connected integrations.
+
+For example, Claude could combine:
+
+Internal company information
+        +
+Connected documents
+        +
+Emails / calendar
+        +
+Web research
+        ↓
+Comprehensive analysis
+
+This connects the concepts I learned in previous lessons:
+
+Connectors → MCP → Enterprise Search → Research Mode
+
+Key Takeaways
+
+* Research Mode is designed for deep, multi-source investigation.
+* It can perform multiple searches and follow relevant leads.
+* Extended Thinking helps Claude plan and analyze complex research.
+* Citations make research results easier to verify.
+* Clear and specific research prompts lead to better results.
+* Connected tools can provide additional context for research.
+
+Reflection
+
+Today’s lesson showed me the difference between simply asking AI a question and using AI as a research partner.
+
+Research Mode can take a complex question, break it into smaller areas, investigate multiple sources, and combine the findings into a structured report. This could save a significant amount of time when working on technical research, market analysis, or learning new technologies.
+
+⸻
+
+Course: Claude 101 (Anthropic)
+
+Lesson: Research Mode for Deep Dives
+
+Status: ✅ Completed
+
+AI Skills Gained
+
+* AI-Powered Research
+* Multi-Source Research
+* Research Prompting
+* Information Synthesis
+* Source Evaluation
+* Citation & Verification
+* Deep Research Workflows
