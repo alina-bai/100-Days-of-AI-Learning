@@ -1,0 +1,136 @@
+Claude 101 — Day 12: Other Ways to Use Claude
+
+Overview
+
+Today I completed the final lesson of Anthropic’s Claude 101 course.
+
+This lesson introduced different ways to use Claude directly within the tools and environments where work already happens.
+
+Instead of always switching to Claude.ai, Claude can be integrated into development, communication, spreadsheets, and web browsing workflows.
+
+What I Learned
+
+Claude can be used through:
+
+* Claude Code — software development and coding workflows
+* Claude in Slack — team communication and collaboration
+* Claude in Excel — spreadsheet analysis and data workflows
+* Claude in Chrome — web research and browser-based tasks
+
+Claude Code
+
+Claude Code is an agentic coding tool that works with your codebase and development environment.
+
+It can help with:
+
+* Building features from natural-language instructions.
+* Debugging errors.
+* Understanding unfamiliar codebases.
+* Running tests.
+* Fixing lint errors.
+* Resolving merge conflicts.
+* Creating release notes.
+
+Example
+
+Analyze this Spring Boot project.
+Find the cause of the failing tests,
+fix the issue, and run the tests again.
+
+This is particularly interesting for software developers because Claude can work with the actual codebase rather than only answering questions about code.
+
+Claude in Slack
+
+Claude can work directly within Slack to help with team communication.
+
+Use cases include:
+
+* Summarizing long discussions.
+* Drafting replies.
+* Preparing for meetings.
+* Finding relevant information in conversations.
+* Understanding project history.
+* Turning discussions into development tasks.
+
+Claude in Excel
+
+Claude can assist with spreadsheets directly in Microsoft Excel.
+
+It can help with:
+
+* Understanding complex formulas.
+* Analyzing spreadsheets.
+* Debugging formula errors.
+* Updating assumptions while maintaining formulas.
+* Creating spreadsheets.
+* Building pivot tables and charts.
+
+Claude in Chrome
+
+Claude in Chrome works as a browser-based assistant.
+
+Potential use cases include:
+
+* Summarizing webpages and articles.
+* Researching information.
+* Drafting emails.
+* Automating repetitive browser tasks.
+* Navigating multi-step workflows.
+
+Because browser agents can interact with websites, permissions and safety are especially important.
+
+Choosing the Right Claude Tool
+
+Tool	Best For
+Claude.ai	General tasks, research, writing, analysis
+Claude Code	Software development and codebases
+Claude in Slack	Team collaboration and communication
+Claude in Excel	Spreadsheet analysis and modeling
+Claude in Chrome	Web research and browser workflows
+
+Key Takeaways
+
+* Claude is not limited to the Claude.ai interface.
+* Different Claude tools are designed for different workflows.
+* Claude Code can support the complete software development workflow.
+* Integrating AI into existing tools can reduce context switching.
+* The best tool depends on where the work is happening and what needs to be accomplished.
+
+My Focus
+
+As someone learning software development and AI, the tool I’m most interested in exploring further is Claude Code.
+
+I want to understand how an AI coding agent can work with a real codebase, run commands, debug problems, write tests, and support the development workflow.
+
+I also want to explore how MCP, Connectors, Skills, and AI coding agents fit together.
+
+Reflection
+
+This final lesson helped me see that Claude is not just a chatbot. It is becoming a layer of intelligence that can work inside the tools people already use every day.
+
+The most important lesson from Claude 101 for me is that effective AI use is not only about writing good prompts. It is also about understanding context, tools, integrations, workflows, and how to collaborate with AI.
+
+⸻
+
+Course: Claude 101 (Anthropic)
+
+Lesson: Other Ways to Use Claude
+
+Status: ✅ Completed 🎉
+
+AI Skills Gained
+
+* AI-Assisted Software Development
+* AI Agents
+* Workflow Integration
+* Browser Automation
+* Spreadsheet Analysis
+* Team Collaboration
+* AI Tool Selection
+* AI Workflow Design
+
+Course Completed
+
+Claude 101 — 12 Days Completed ✅
+
+From prompt engineering and personalization to Projects, Skills, MCP, Connectors, Research, and AI-powered development workflows.
